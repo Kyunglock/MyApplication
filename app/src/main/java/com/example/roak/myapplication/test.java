@@ -10,5 +10,7 @@ public class test extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
         System.out.println("바뀜");
+        System.out.println("바뀜");
+        
     }
 }
