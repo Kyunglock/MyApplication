@@ -8,5 +8,5 @@ import android.app.Activity;
 
 public class commit_test extends Activity {
     private static final String TAG = "MainActivity";
-    //바뀜?
+    //바뀜?dd?
 }
